@@ -1,0 +1,1 @@
+# Presenting here some advanced algorithms coded with PostgreSQL. These algorithms which are relatively simpler to implement in a high-level language such as C++/Java, require SERIOUS SKILLS when coding in PostgreSQL. Have a look! 
